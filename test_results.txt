@@ -1,0 +1,17 @@
+test_command_from_different_directory (test_analysis.SalesAnalysisTests.test_command_from_different_directory) ... ok
+test_conflicting_total (test_analysis.SalesAnalysisTests.test_conflicting_total) ... ok
+test_exact_duplicates (test_analysis.SalesAnalysisTests.test_exact_duplicates) ... ok
+test_invalid_date_and_blank_product (test_analysis.SalesAnalysisTests.test_invalid_date_and_blank_product) ... ok
+test_invalid_numbers (test_analysis.SalesAnalysisTests.test_invalid_numbers) ... ok
+test_known_metrics (test_analysis.SalesAnalysisTests.test_known_metrics) ... ok
+test_missing_column (test_analysis.SalesAnalysisTests.test_missing_column) ... ok
+test_missing_essential_fields (test_analysis.SalesAnalysisTests.test_missing_essential_fields) ... ok
+test_missing_total_is_derived (test_analysis.SalesAnalysisTests.test_missing_total_is_derived) ... ok
+test_no_valid_rows (test_analysis.SalesAnalysisTests.test_no_valid_rows) ... ok
+test_supplied_data_against_standard_library (test_analysis.SalesAnalysisTests.test_supplied_data_against_standard_library) ... ok
+test_zero_price_and_ties (test_analysis.SalesAnalysisTests.test_zero_price_and_ties) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.648s
+
+OK

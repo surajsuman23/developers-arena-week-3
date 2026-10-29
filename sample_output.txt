@@ -1,0 +1,23 @@
+SALES DATA ANALYSIS
+Input shape: 100 rows x 7 columns
+Input: 100 rows and 7 columns.
+Missing cells before cleaning: 0.
+Exact duplicate rows removed: 0.
+Rows excluded for invalid date, product, quantity or price: 0.
+Missing or nonnumeric totals calculated as quantity x price: 0.
+Rows used in the analysis: 100.
+Total revenue: INR 12,365,048.00
+Units sold: 478
+Average revenue per record: INR 123,650.48
+Minimum / maximum: INR 6,540.00 / INR 373,932.00
+
+PRODUCT SUMMARY
+            Units  Revenue
+Product                   
+Laptop        136  3889210
+Tablet        127  2884340
+Phone         101  2859394
+Headphones     48  1384033
+Monitor        66  1348071
+
+Report saved: analysis_report.md
